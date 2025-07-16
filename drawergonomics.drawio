@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.5">
+  <diagram name="Page-1" id="7DUAC2GnJp_Toz9Pnvdz">
+    <mxGraphModel dx="4192" dy="4610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-1" target="k_pbZAuwUhTD5BeBytYZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.99999999999955" y="-865" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="827" y="-720" />
+              <mxPoint x="390" y="-720" />
+              <mxPoint x="390" y="-1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-1" target="k_pbZAuwUhTD5BeBytYZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="-720" />
+              <mxPoint x="1260" y="-720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-1" target="k_pbZAuwUhTD5BeBytYZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="-470" />
+              <mxPoint x="390" y="-470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-1" target="k_pbZAuwUhTD5BeBytYZ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="-470" />
+              <mxPoint x="1260" y="-470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-1" target="k_pbZAuwUhTD5BeBytYZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;ERGONOMIA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="642" y="-649" width="378" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-9" target="k_pbZAuwUhTD5BeBytYZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-9" value="Legislação Aplicável" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=36;fillColor=#ffcc99;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-920" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-13" target="k_pbZAuwUhTD5BeBytYZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-13" value="Campos de Atuação" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=36;fillColor=light-dark(#FF0000,#CC0000);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-340" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-15" target="k_pbZAuwUhTD5BeBytYZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-15" value="&lt;div&gt;Relação com a Segurança e a Saúde no Trabalho&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=36;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="-370" width="435" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-17" target="k_pbZAuwUhTD5BeBytYZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-17" value="Histórico e Definições" style="rounded=1;html=1;fontFamily=Times New Roman;fontSize=36;fillColor=light-dark(#E3C800,#FFC800);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-1200" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-19" value="A Ergonomia tem origem no grego &lt;em data-start=&quot;253&quot; data-end=&quot;260&quot;&gt;ergon&lt;/em&gt; (trabalho) e &lt;em data-start=&quot;274&quot; data-end=&quot;281&quot;&gt;nomos&lt;/em&gt; (regras) e foi inicialmente formulada pelo polonês Jastrzebowski em 1857, sendo consolidada como disciplina moderna após a Segunda Guerra Mundial por F. Murrell. Segundo a IEA, é a ciência que estuda as interações entre os seres humanos e os elementos de um sistema, com o objetivo de otimizar o bem-estar humano e o desempenho global. Tem uma abordagem holística, considerando fatores físicos, cognitivos, sociais, organizacionais e ambientais." style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E3C800,#F5C000);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="-1410" width="770" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-45" target="k_pbZAuwUhTD5BeBytYZ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-45" target="k_pbZAuwUhTD5BeBytYZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-45" target="k_pbZAuwUhTD5BeBytYZ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-21" target="k_pbZAuwUhTD5BeBytYZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-21" value="A Ergonomia se divide em três principais áreas. A Ergonomia Física trata de aspectos biomecânicos e fisiológicos, como postura e esforços repetitivos. A Ergonomia Cognitiva foca nos processos mentais, como atenção, memória e tomada de decisão, fundamentais no uso de sistemas e interfaces. Já a Ergonomia Organizacional (ou macroergonomia) trata da estrutura e dinâmica organizacional, influenciando fatores como turnos de trabalho, comunicação e gestão participativa." style="whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;rounded=1;fillColor=light-dark(#E51400,#CC0000);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="-700" width="1395" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-23" value="No Brasil, a principal norma é a NR-17, que regulamenta os parâmetros para adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores, promovendo conforto, segurança e desempenho. No cenário internacional, destaca-se a ISO 6385, que estabelece os princípios básicos de projeto ergonômico aplicáveis a qualquer sistema de trabalho, sendo base para outras normas mais específicas." style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-1230" width="860" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-25" value="A Ergonomia está diretamente relacionada à prevenção de acidentes e doenças ocupacionais, como LER/DORT e fadiga mental. Atua promovendo ambientes de trabalho mais seguros e saudáveis, contribuindo para a redução de riscos, o aumento da satisfação dos trabalhadores e a melhoria da qualidade de vida no trabalho. Além disso, influencia positivamente a produtividade e o desempenho organizacional." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=36;fontFamily=Times New Roman;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-370" width="1062.5" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-27" target="k_pbZAuwUhTD5BeBytYZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-27" value="Atuação na Engenharia de Produção" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=36;fillColor=#d0cee2;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="632" y="-30" width="390" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-30" value="A Engenharia de Produção aplica os princípios ergonômicos na análise e no redesenho de sistemas produtivos, focando na adaptação das condições de trabalho às capacidades humanas. Atua na elaboração de projetos de postos de trabalho, escolha de equipamentos, layout e organização de processos, utilizando ferramentas como a Análise Ergonômica do Trabalho (AET), contribuindo para integrar produtividade, segurança e sustentabilidade." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=36;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#d0cee2;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="376" y="490" width="1064" height="404" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-32" target="k_pbZAuwUhTD5BeBytYZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-32" value="Ergonomia Biomecânica (ou Física)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);arcSize=0;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="220" width="430" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-34" target="k_pbZAuwUhTD5BeBytYZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-34" value="&lt;div&gt;Ergonomia Cognitiva&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);rounded=1;arcSize=50;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-888.75" y="510" width="372.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-36" target="k_pbZAuwUhTD5BeBytYZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-36" value="Ergonomia Ambiental" style="whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);rounded=1;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="220" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-38" value="Relaciona-se com os fatores do ambiente físico de trabalho que afetam a saúde, o conforto e o desempenho dos trabalhadores. Engloba aspectos como iluminação, ruído, vibração, temperatura, ventilação e qualidade do ar. Conforme descrito em &lt;em data-end=&quot;1734&quot; data-start=&quot;1692&quot;&gt;Ergonomia: Trabalho Adequado e Eficiente&lt;/em&gt;, o controle desses fatores é fundamental para prevenir fadiga, estresse térmico, perda auditiva e outros agravos à saúde, além de promover ambientes produtivos e saudáveis&lt;span aria-describedby=&quot;radix-«rt0»&quot; data-state=&quot;delayed-open&quot; class=&quot;&quot;&gt;&lt;span aria-describedby=&quot;radix-«rt0»&quot; class=&quot;relative inline-flex items-center&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="520" width="630" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-40" value="Foca nos processos mentais e psicológicos envolvidos na interação entre pessoas e sistemas, como percepção, atenção, memória, raciocínio, tomada de decisão e resposta motora. Essa área busca otimizar o desempenho cognitivo e reduzir erros humanos em sistemas complexos, como painéis de controle, softwares e ambientes de alta exigência mental (como aviação ou centros de controle). De acordo com Salvendy (2012), ela é essencial para o desenvolvimento de interfaces intuitivas e seguras&lt;span data-state=&quot;closed&quot; class=&quot;&quot;&gt;&lt;span class=&quot;relative inline-flex items-center&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);arcSize=11;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-1267.5" y="1340" width="1130" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-42" value="É a área da ergonomia que se concentra nos aspectos anatômicos, fisiológicos e biomecânicos do corpo humano em relação às atividades físicas no trabalho. Envolve o estudo de postura, esforços repetitivos, levantamento de cargas, movimentos e limitações físicas, com o objetivo de prevenir distúrbios musculoesqueléticos e melhorar a eficiência e segurança nas tarefas. Segundo Marras (apud Salvendy, 2012), ela é essencial no projeto de postos de trabalho e ferramentas que respeitem os limites do corpo humano&lt;span aria-describedby=&quot;radix-«rst»&quot; data-state=&quot;delayed-open&quot; class=&quot;&quot;&gt;&lt;span aria-describedby=&quot;radix-«rst»&quot; class=&quot;relative inline-flex items-center&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);rounded=1;arcSize=0;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="465" width="965" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-44" value="&lt;p data-start=&quot;183&quot; data-end=&quot;332&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;INTERNATIONAL ERGONOMICS ASSOCIATION (IEA). &lt;em data-start=&quot;227&quot; data-end=&quot;248&quot;&gt;What is ergonomics?&lt;/em&gt; Disponível em: &lt;a data-start=&quot;264&quot; data-end=&quot;306&quot; class=&quot;&quot; rel=&quot;noopener&quot; target=&quot;_new&quot; href=&quot;https://www.iea.cc/&quot;&gt;https://www.iea.cc/&lt;/a&gt;. Acesso em: 16 jul. 2025.&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p data-start=&quot;334&quot; data-end=&quot;492&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;MÁSCULO, Francisco Soares; VIDAL, Mario Cesar Rodríguez (Orgs.). &lt;em data-start=&quot;399&quot; data-end=&quot;441&quot;&gt;Ergonomia: trabalho adequado e eficiente&lt;/em&gt;. Rio de Janeiro: Elsevier, 2011. (Coleção ABEPRO).&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p data-start=&quot;494&quot; data-end=&quot;603&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;SALVENDY, Gavriel (Ed.). &lt;em data-start=&quot;519&quot; data-end=&quot;561&quot;&gt;Handbook of human factors and ergonomics&lt;/em&gt;. 4. ed. Hoboken: John Wiley &amp;amp; Sons, 2012.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;textShadow=1;fillColor=#fa6800;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-2080" width="1530" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #ffffff);strokeWidth=10;" edge="1" parent="1" source="k_pbZAuwUhTD5BeBytYZ-21" target="k_pbZAuwUhTD5BeBytYZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-702" y="-230" as="sourcePoint" />
+            <mxPoint x="70" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_pbZAuwUhTD5BeBytYZ-45" value="&lt;div&gt;Dentre seus principais campos, destacam-se: A Ergonomia Física, a Cognitiva e a Ambiental&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=36;fontFamily=Times New Roman;fillColor=light-dark(#E51400,#CC0000);strokeColor=light-dark(#000000, #ffffff);fontColor=light-dark(#FFFFFF,#FFFFFF);rounded=1;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-90" width="580" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
