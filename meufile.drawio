@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7">
+  <diagram name="Page-1" id="y3ROc2sPGpsVdJIadmc_">
+    <mxGraphModel dx="1201" dy="510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-1" value="Cliente envia mensagem com dúvida ou solicitando atendimento. Com resposta automatica ou atendimento manual" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="296" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LuNSkz3YYq7r58OBSz8q-9" target="LuNSkz3YYq7r58OBSz8q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-9" value="Cliente Envia Mensagem via Insta/Whats" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.apps;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="34.199999999999996" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LuNSkz3YYq7r58OBSz8q-1" target="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="121" as="sourcePoint" />
+            <mxPoint x="578" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-11" value="" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="249" y="211" width="740" height="1407" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-12" value="Recebe um Menu de serviço e valores" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="461.5275" y="40" width="111" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-13" value="Se atendimento proseguir" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="343.4" y="137" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-12" target="LuNSkz3YYq7r58OBSz8q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-15" value="Se atendimento for cancelado." style="whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="590.655" y="137" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-12" target="LuNSkz3YYq7r58OBSz8q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="LuNSkz3YYq7r58OBSz8q-20" source="LuNSkz3YYq7r58OBSz8q-15" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2334.1749999999993" y="271" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-20" value="&lt;div&gt;Obrigado pelo seu contato, estaremos a disposiçaão sempre que precisar&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="561.4" y="227" width="158.51" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="LuNSkz3YYq7r58OBSz8q-24" source="LuNSkz3YYq7r58OBSz8q-13" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2334.477" y="271" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-24" target="LuNSkz3YYq7r58OBSz8q-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-24" value="&lt;div&gt;Escolha uma das opções: abaixo para continuar&lt;/div&gt;&lt;div&gt;1️⃣ R$ 60 – Consulta simples (avaliação clínica + orientações)&amp;nbsp;&amp;nbsp;&lt;br&gt;2️⃣ R$ 80 – Consulta + aplicação de medicação (vermífugo, antibiótico, etc.)&amp;nbsp;&amp;nbsp;&lt;br&gt;3️⃣ R$ 100 – Consulta + medicação + retorno em até 7 dias (sem custo)&amp;nbsp;&amp;nbsp;&lt;br&gt;4️⃣ R$ 120+ – Consulta completa + vacina + medicação + acompanhamento via WhatsApp por 15 dias&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="265.4" y="227" width="256" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-30" target="LuNSkz3YYq7r58OBSz8q-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2281.7924999999996" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-30" target="LuNSkz3YYq7r58OBSz8q-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2107.7924999999996" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-40" value="Se não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LuNSkz3YYq7r58OBSz8q-35">
+          <mxGeometry x="-0.3435" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-30" value="&lt;div&gt;Se opção 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="354.4" y="483" width="78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-38" value="1 -Confirma espécie e sintomas do pet&lt;br&gt;2 -Informa endereço e melhor horário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="195.8" y="613" width="225" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-39" target="LuNSkz3YYq7r58OBSz8q-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-39" value="Escolha outra Opção!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="460.8" y="613" width="130.2" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="LuNSkz3YYq7r58OBSz8q-42" source="LuNSkz3YYq7r58OBSz8q-38" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1967.7925000000002" y="758" as="targetPoint" />
+            <mxPoint x="-1632.1650000000002" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-42" value="Confima se há disponibilidade para a consulta imediata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="195.8" y="729" width="225" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-43" target="LuNSkz3YYq7r58OBSz8q-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1858.1650000000002" y="941.3999938964844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-54" value="Se não houver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LuNSkz3YYq7r58OBSz8q-51">
+          <mxGeometry x="0.1444" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-43" value="Se houver" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="275.3" y="845" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-42" target="LuNSkz3YYq7r58OBSz8q-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-43" target="LuNSkz3YYq7r58OBSz8q-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-49" value="&lt;div&gt;1- Confirma horário e inicia o deslocamento&lt;/div&gt;&lt;div&gt;2- Cliente é informado do tempo estimado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="44.5" y="961" width="234" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-43" target="LuNSkz3YYq7r58OBSz8q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-52" value="1- Sugere datas e horários disponíveis&lt;br&gt;2- Cliente escolhe e agendamento é confirmado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="338.1" y="961" width="234" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="LuNSkz3YYq7r58OBSz8q-56" source="LuNSkz3YYq7r58OBSz8q-49" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-69.02749999999997" y="1005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-56" value="Vá para &lt;b&gt;Atendimento há Domicílio&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="44.5" y="1077" width="234" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="LuNSkz3YYq7r58OBSz8q-59" source="LuNSkz3YYq7r58OBSz8q-52" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1630.6650000000002" y="1127.3999938964844" as="targetPoint" />
+            <mxPoint x="88.47250000000014" y="1064" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LuNSkz3YYq7r58OBSz8q-11" source="LuNSkz3YYq7r58OBSz8q-59" target="LuNSkz3YYq7r58OBSz8q-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-59" value="Vá para &lt;b&gt;Pré-Atendimento Agendado&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="338.1" y="1077" width="234" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="LuNSkz3YYq7r58OBSz8q-61" source="LuNSkz3YYq7r58OBSz8q-56" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-51.527499999999975" y="1216" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-61" value="&lt;div align=&quot;justify&quot;&gt;1- Veterinário realiza o serviço escolhido&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;2 - Explica o diagnóstico e tratamento&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;3 - Entrega orientações (escritas ou por WhatsApp)&lt;br&gt;4 - Cobra valor correspondente no final da consulta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="20" y="1193" width="283" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="LuNSkz3YYq7r58OBSz8q-65" source="LuNSkz3YYq7r58OBSz8q-61" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1334" as="sourcePoint" />
+            <mxPoint x="363" y="1342" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuNSkz3YYq7r58OBSz8q-65" value="&lt;div align=&quot;center&quot;&gt;Pós Atendimento&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LuNSkz3YYq7r58OBSz8q-11">
+          <mxGeometry x="240" y="1345" width="260" height="41.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
